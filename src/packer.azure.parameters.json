@@ -1,0 +1,17 @@
+{
+    "image_offer": "WindowsServer",
+    "image_publisher": "MicrosoftWindowsServer",
+    "image_sku": "2016-Datacenter",
+    "subscription_id": "f9366247-678f-491c-8d25-40ac024ca7ee",
+    "location": "westeurope",
+    "image_name": "OSTest1",
+    "tenant_id": "4d1b4dec-a05a-4ff9-b6ee-7489144ff12d",
+    "object_id": "9f9da36c-9171-437d-89c2-8e22314dfeb3",
+    "client_id": "32c55767-c2e7-4dfa-9a03-c39ad61a0af9",
+    "client_secret": "rJHuX8CK5u0HAQXMWiRVTCsYpaWQP/ihcpCmNoUv9SU=",
+    "os_server_version": "10.0.904.0",
+    "os_servicestudio_version": "10.0.906.0",
+    "az_sto_name": "myfilerepo",
+    "az_sto_resource_group_name": "Images",
+    "az_sto_container_name": "osimages"
+}

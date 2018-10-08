@@ -1,1 +1,1 @@
-# OutSystems-PackerImages
+# OutSystems-PackerTemplates
